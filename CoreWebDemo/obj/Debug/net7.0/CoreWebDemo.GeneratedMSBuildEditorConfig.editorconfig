@@ -9,39 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CoreWebDemo
 build_property.RootNamespace = CoreWebDemo
-build_property.ProjectDir = D:\eee\CoreWebDemo\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = D:\qqq\test\CoreWebDemo\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\eee\CoreWebDemo
+build_property.MSBuildProjectDirectory = D:\qqq\test\CoreWebDemo
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/eee/CoreWebDemo/Pages/Error.cshtml]
+[D:/qqq/test/CoreWebDemo/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/eee/CoreWebDemo/Pages/Index.cshtml]
+[D:/qqq/test/CoreWebDemo/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/eee/CoreWebDemo/Pages/Privacy.cshtml]
+[D:/qqq/test/CoreWebDemo/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/eee/CoreWebDemo/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/qqq/test/CoreWebDemo/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/eee/CoreWebDemo/Pages/_ViewImports.cshtml]
+[D:/qqq/test/CoreWebDemo/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/eee/CoreWebDemo/Pages/_ViewStart.cshtml]
+[D:/qqq/test/CoreWebDemo/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/eee/CoreWebDemo/Pages/Shared/_Layout.cshtml]
+[D:/qqq/test/CoreWebDemo/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fl87oi5e7y
